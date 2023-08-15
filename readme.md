@@ -1,4 +1,4 @@
-# Atividade CRUD tarefas
+# Atividade CRUD tarefas,Cadastro e Login
 
 **Especificação: CRUD de Gerenciador de Tarefas**
 
